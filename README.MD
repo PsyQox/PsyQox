@@ -26,4 +26,4 @@ resolver toda clase de problemas con programación y seguir mejorando día a dí
 
 <a href="https://www.linkedin.com/in/luis-enrique-r-r/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Luis Rodriguez" height="30" width="30" /> LinkedIn/in/luis-enrique-r-r</a>
 
-<a href="mailto:csalvadordiaz689@gmail.com " target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="Luis Rodriguez" height="26" width="30" /> luisrodrizza@gmail.com</a>
+<a href="mailto:luisrodrizza@gmail.com " target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="Luis Rodriguez" height="26" width="30" /> luisrodrizza@gmail.com</a>
