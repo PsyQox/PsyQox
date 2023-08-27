@@ -27,4 +27,5 @@ resolver toda clase de problemas con programación y seguir mejorando día a dí
 
 <a href="mailto:luisrodrizza@gmail.com " target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="Luis Rodriguez" height="26" width="30" /> luisrodrizza@gmail.com</a>
 
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyqox&label=Profile%20views&color=0e75b6&style=flat" alt="psyqox" /> </p>
