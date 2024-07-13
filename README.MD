@@ -25,7 +25,7 @@ resolver toda clase de problemas con programación y seguir mejorando día a dí
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/PsyQox">
  
