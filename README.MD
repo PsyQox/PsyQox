@@ -30,6 +30,7 @@ resolver toda clase de problemas con programación y seguir mejorando día a dí
 <a href="https://github.com/PsyQox">
  
   <img src="https://github-readme-stats.vercel.app/api?username=PsyQox&theme=algolia&show_icons=true" width="375"  alt="PsyQox"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsyQox" width="375"  alt="PsyQox"/>
 
 </a>
 </div>
